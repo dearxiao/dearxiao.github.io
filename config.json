@@ -2,5 +2,6 @@
     "title":"Xiao's life",
     "subTitle":"Hi, I'm a Network Engineer",
     "avatarUrl":"https://dearxiao.github.io/hi.ico",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "allHead":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script>"
 }
